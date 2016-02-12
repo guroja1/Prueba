@@ -18,6 +18,7 @@ public class Tarea {
         // TODO code application logic here
         System.out.println("esto es una prueba");
         System.out.println("se hace modificacion desde la pagina web");
-    }
+        System.out.println("se hace modificacion desde NetBeans"); 
+   }
     
 }
