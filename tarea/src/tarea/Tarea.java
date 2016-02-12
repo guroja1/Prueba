@@ -19,6 +19,7 @@ public class Tarea {
         System.out.println("esto es una prueba");
         System.out.println("se hace modificacion desde la pagina web");
         System.out.println("se hace modificacion desde NetBeans"); 
+         System.out.println("se hace modificacion desde la pagina web");
    }
     
 }
